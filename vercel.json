@@ -1,0 +1,8 @@
+{
+  "env": {
+    "TIKTOK_CLIENT_KEY": "@tiktok-client-key",
+    "TIKTOK_CLIENT_SECRET": "@tiktok-client-secret",
+    "NEXT_PUBLIC_TIKTOK_CLIENT_KEY": "@tiktok-client-key", 
+    "NEXT_PUBLIC_REDIRECT_URI": "https://prilojenie-pchelka.vercel.app"
+  }
+}
